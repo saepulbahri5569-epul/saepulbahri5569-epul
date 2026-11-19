@@ -27,9 +27,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saepulbahri5569-epul&show_icons=true&theme=tokyonight&hide_border=true" alt="Saepul's GitHub Stats" />
 </p>
-
-### 🐍 My GitHub Snake Animation
-
-> _Animasi di bawah ini secara otomatis memakan kotak kontribusi GitHub Anda layaknya game Snake klasik!_
-
-<img src="https://raw.githubusercontent.com/saepulbahri5569-epul/saepulbahri5569-epul/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
