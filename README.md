@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm M Saepul Bahri S 👋
 
 <!--
 **saepulbahri5569-epul/saepulbahri5569-epul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on **@DapurKangEpul**
+- 🌱 I’m currently learning **Tailwild**
+
+![Hallo everyone](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDkzMTZ6YXZoc2xqeDV1eDNhbHZyc2Q0ZnR0N3YxdDkxZzJ3cnpyYiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/xT9IgG50Fb7Mi0prBC/giphy.gif)
