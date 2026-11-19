@@ -32,6 +32,4 @@
 
 > _Animasi di bawah ini secara otomatis memakan kotak kontribusi GitHub Anda layaknya game Snake klasik!_
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saepulbahri5569-epul/saepulbahri5569-epul/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
+<img src="https://raw.githubusercontent.com/saepulbahri5569-epul/saepulbahri5569-epul/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
