@@ -2,12 +2,15 @@ name: Generate Snake
 
 on:
   schedule:
-    # Setiap 12 jam sekali
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+
+# Tambahkan izin akses agar Actions diizinkan menulis branch baru
+permissions:
+  contents: write
 
 jobs:
   build:
