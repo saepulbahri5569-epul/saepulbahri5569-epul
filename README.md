@@ -1,46 +1,35 @@
-<!-- ============================================= -->
-<!--       M SAEPUL BAHRI S - CYBER MATRIX         -->
-<!-- ============================================= -->
+````html
+<!-- ============================================ -->
+<!--          SAEPUL BAHRI - CYBER MATRIX         -->
+<!-- ============================================ -->
 
 <div align="center">
-
   <!-- MATRIX BACKGROUND -->
+  <img
+    src="assets/matrix-background.png"
+    width="100%"
+    alt="Saepul Cyber Matrix Background"
+  />
 
-<img src="assets/matrix-background.png"
-       width="100%"
-       alt="Saepul Cyber Matrix Background"/>
-
-  <br/>
+  <br />
 
   <!-- TYPING ANIMATION -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Learning+Web+Development;Building+Ideas+into+Projects;Dream+%E2%80%A2+Code+%E2%80%A2+Build+%E2%80%A2+Grow" />
-
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Learning+Web+Development;Building+Ideas+into+Projects;Dream+%E2%80%A2+Code+%E2%80%A2+Build+%E2%80%A2+Grow"
+  />
 </div>
 
----
-
-## `> whoami`
-
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│  USER       : M Saepul Bahri S               │
-│  ROLE       : Aspiring Developer             │
-│  INTEREST   : Technology & Programming       │
-│  STATUS     : Learning and Building          │
-│                                              │
+--- ## `> whoami` ```text ╭──────────────────────────────────────────────╮ │ │ │
+USER : M Saepul Bahri S │ │ ROLE : Aspiring Developer │ │ INTEREST : Technology
+& Programming │ │ STATUS : Learning and Building │ │ │
 ╰──────────────────────────────────────────────╯
-```
+````
 
 ## `> hello_world`
 
 ### Hello World! I'm M Saepul Bahri S 👋
 
-<div align="center">
-
 ![Hallo Everyone](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDkzMTZ6YXZoc2xqeDV1eDNhbHZyc2Q0ZnR0N3YxdDkxZzJ3cnpyYiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/xT9IgG50Fb7Mi0prBC/giphy.gif)
-
-</div>
 
 > `// Welcome to my little corner of GitHub.`
 >
@@ -73,8 +62,8 @@
 ## `> projects --featured`
 
 <table>
-  <tr>
-    <td width="100%">
+<tr>
+<td width="100%">
 
 ### 🍽️ DapurKangEpul
 
@@ -86,9 +75,8 @@ STATUS  : In Development
 
 Currently working on DapurKangEpul, a project where I'm exploring web development and improving my programming skills.
 
-    </td>
-
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
@@ -137,15 +125,15 @@ Currently working on DapurKangEpul, a project where I'm exploring web developmen
 > Keep learning...
 > Keep building...
 > Never stop exploring...
-> Connection terminated...
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:064E3B,100:000000&height=120&section=footer" width="100%" alt="Cyber Green Footer"/>
 
-<sub>DREAM • CODE • BUILD • GROW</sub>
+<sub>Dream • Code • Build • Grow</sub>
 
 <br/>
 
 <sub>Building my future, one line of code at a time. 💻</sub>
 
 </div>
+```
