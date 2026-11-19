@@ -1,20 +1,21 @@
 ## Hello World! I'm M Saepul Bahri S 👋
 
-<!--
-**saepulbahri5569-epul/saepulbahri5569-epul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDkzMTk3NDkzMTk3NDkzMTk3NDkzMTk3NDkzMTk3NDkz/xT9Igg50fB7Mi0pWc/giphy.gif" width="400" />
+</div>
 
-Here are some ideas to get you started:
+### 📌 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 - 🔭 I’m currently working on **@DapurKangEpul**
-- 🌱 I’m currently learning **Tailwild**
+- 🌱 I’m currently learning **Tailwind CSS**
+- 👥 I’m looking to collaborate on open-source projects
+- 💬 Ask me about web projects and tech journeys
+- 📫 How to reach me: saepulbahri5569@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Always eager to turn ideas into reality!
 
-![Hallo everyone](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDkzMTZ6YXZoc2xqeDV1eDNhbHZyc2Q0ZnR0N3YxdDkxZzJ3cnpyYiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/xT9IgG50Fb7Mi0prBC/giphy.gif)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saepulbahri5569-epul&show_icons=true&theme=tokyonight&hide_border=true" alt="Saepul's GitHub Stats" />
+</p>
